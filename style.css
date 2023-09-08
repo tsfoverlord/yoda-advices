@@ -28,6 +28,10 @@ h1 {
     border-radius: 10px;
 }
 
+.card .advice {
+    text-align: center;
+}
+
 button {
     width: 19rem;
     height: 3rem;
