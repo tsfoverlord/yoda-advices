@@ -26,6 +26,7 @@ h1 {
     padding: 1rem;
     box-shadow: grey 0px 1px 8px 0px;
     border-radius: 10px;
+    min-width: 24rem;
 }
 
 .card .advice {
