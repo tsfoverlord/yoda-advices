@@ -1,0 +1,28 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    width: 34rem;
+    margin: auto;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    box-shadow: grey 0px 1px 8px 0px;
+    border-radius: 10px;
+
+}
